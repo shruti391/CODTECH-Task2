@@ -1,10 +1,15 @@
 # CODTECH-Task2
 
 Name: Shruti Singh
+
 Company: CODTECH IT SOLUTIONS
+
 ID: CT08DS5816
+
 Domain: Fronted web development
+
 Duration: August 1st to September 1st
+
 Mentor: Neela Santosh Kumar
 
 Project Overview: Build a simple and to-do list apllication where users can add, delete, and mark tasks as completed.
